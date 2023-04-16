@@ -3,7 +3,7 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: GenEasy 网址导航
+title: 王冠的网址导航
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
@@ -42,14 +42,14 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 北邮相关
     icon: linecons-star
     links:
-      - title: DTO
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
+      - title: 网上服务大厅
+        logo: 
+        url: https://service.bupt.edu.cn/v2/site/index 
+        description:
+        tags: 
       - title: BestXTools 社区
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://discuss-cn.bestxtools.com/

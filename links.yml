@@ -45,11 +45,11 @@ categories:
   - category: 北邮相关
     icon: linecons-star
     links:
-      - title: 网上服务大厅
-        logo: 
+      - title: 服务大厅
+        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
         url: https://service.bupt.edu.cn/v2/site/index 
-        description:
-        tags: 
+        description: 一个类似 Hacker News, Lobsters 的链接分享社区
+        tags: 程序员,社区
       - title: BestXTools 社区
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://discuss-cn.bestxtools.com/

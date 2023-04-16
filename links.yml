@@ -46,25 +46,37 @@ categories:
     icon: linecons-star
     links:
       - title: 服务大厅
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
+        logo: 
         url: https://service.bupt.edu.cn/v2/site/index 
         description: 
         tags: 
-      - title: BestXTools 社区
+      - title: 研究生信息管理系统
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
+        url: http://yjxt.bupt.edu.cn
         description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
-        tags: 在线工具,周刊,社区
-      - title: 等你来加➕
+        tags: 
+      - title: 教学云平台
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: Pipecraft 社区
+        url: https://ucloud.bupt.edu.cn
+        description: 
+        tags: 
+      - title: 信息门户
+        logo: 
+        url: http://my.bupt.edu.cn/xs_index.jsp?urltype=tree.TreeTempUrl&wbtreeid=1541
+        description: 
+        tags:
+      
+      - title: 研究生院
         logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
+        url: https://grs.bupt.edu.cn/
+        description: 
+        tags:
+
+        - title: 北邮人论坛
+        logo: 
+        url: https://bbs.byr.cn/
+        description: 
+        tags:
 
   - category: 推荐
     hide_menu: true
@@ -176,3 +188,7 @@ categories:
         url: https://discuss-cn.bestxtools.com/
         description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
         tags: 在线工具,周刊,社区
+
+        
+
+

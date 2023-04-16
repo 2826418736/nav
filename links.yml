@@ -11,15 +11,15 @@ keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推�
 # 网址导航页面描述（可选）
 description: 导航模板。
 # 网址导航页面 URL（可选）
-url: https://geneasy.github.io/nav/
+url: https://2826418736.github.io/nav/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
 og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-home_url: https://geneasy.github.io/nav/
+home_url: https://2826418736.github.io/nav/
 # GitHub 链接（可选）
-github_url: https://github.com/geneasy/nav
+github_url: https://github.com/2826418736/nav
 # 网站 about 链接（可选）
 about_url: https://github.com/geneasy/nav
 # 提交链接的 URL
@@ -64,15 +64,14 @@ categories:
         logo: 
         url: http://my.bupt.edu.cn/xs_index.jsp?urltype=tree.TreeTempUrl&wbtreeid=1541
         description: 
-        tags:
-      
+        tags:  
       - title: 研究生院
         logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
         url: https://grs.bupt.edu.cn/
         description: 
-        tags:
-
-        - title: 北邮人论坛
+        tags: 
+        
+      - title: 北邮人论坛
         logo: 
         url: https://bbs.byr.cn/
         description: 
